@@ -1,8 +1,17 @@
 body {
   text-align: center;
+  color: white;
+  background-color: black;
 }
 
 img {
   border: 2px;
   color: white;
+  height: 100%;
+  width: 250px;
+}
+
+#divFavs {
+  list-style-position: inside;
+  display: block;
 }
